@@ -1,0 +1,23 @@
+{
+  "name": "3-column-preview-card-component-main",
+  "version": "1.0.0",
+  "description": "![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg)",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azkanorouzi/tailwind-test-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Azkanorouzi/tailwind-test-1/issues"
+  },
+  "homepage": "https://github.com/Azkanorouzi/tailwind-test-1#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.6"
+  }
+}
